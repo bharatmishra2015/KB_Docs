@@ -1,0 +1,31 @@
+# packages/
+# CurrencyExchange/packages/
+CurrencyExchange/obj/
+# CurrencyExchangeClient/packages/
+CurrencyExchange/TestResults/
+CurrencyExchangeClient/CurrencyExchange/bin/
+CurrencyExchangeClient/CurrencyExchange/obj/
+CurrencyExchangeClient/CurrencyExchange.Tests/bin/
+CurrencyExchangeClient/CurrencyExchange.Tests/obj/
+CurrencyExchange/CurrencyExchangeAPI/bin/
+CurrencyExchange/CurrencyExchangeAPI/obj/
+CurrencyExchange/CurrencyExchangeAPI/logs/
+CurrencyExchange/CurrencyExchangeAPI.Tests/bin/
+CurrencyExchange/CurrencyExchangeAPI.Tests/obj/
+CurrencyExchange/CurrencyExchangeDtos/bin/
+CurrencyExchange/CurrencyExchangeDtos/obj/
+CurrencyExchange/CurrencyExchangeProvider/bin/
+CurrencyExchange/CurrencyExchangeProvider/obj/
+CurrencyExchange/CurrencyExchangeRepository/bin/
+CurrencyExchange/CurrencyExchangeRepository/obj/
+CurrencyExchange/CurrencyExchangeProvider.Test/bin/
+CurrencyExchange/CurrencyExchangeProvider.Test/obj/
+CurrencyExchangeClient/CurrencyConverterClient/bin/
+CurrencyExchangeClient/CurrencyConverterClient/obj/
+
+.nuget/NuGet.exe
+*.suo
+*.user
+
+# Visual Studio cache/options directory
+.vs/
